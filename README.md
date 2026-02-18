@@ -159,11 +159,11 @@ To position AnyTimeTeacher as the undisputed leader in AI-enhanced education, I 
 | Priority | Timeframe | Task | Impact |
 | :--- | :--- | :--- | :--- |
 | 🔴 **URGENT** | Immediate | Fix /api/chapters/upload (500 Error) | Allows AI Lesson Generation |
-| 🔴 **URGENT** | < 24 Hours | Resolve `cbse.` Subdomain Takeover | Prevents Phishing/Hijacking |
-| 🟡 **HIGH** | < 7 Days | Deploy Privacy Policy & COPPA Docs | Legal Institutional Sales |
-| 🟡 **HIGH** | < 7 Days | Implement X-Frame-Options/CSP | Hardens against Clickjacking |
-| 🟢 **MEDIUM** | < 14 Days | Deploy manifest.json (PWA) | Enables Home Screen Install |
-| 🟢 **LOW** | < 30 Days | OpenGraph (SEO) Metadata | Professional LinkedIn Sharing |
+| 🔴 **URGENT** |  Resolve `cbse.` Subdomain Takeover | Prevents Phishing/Hijacking |
+| 🟡 **HIGH** | Deploy Privacy Policy & COPPA Docs | Legal Institutional Sales |
+| 🟡 **HIGH** | Implement X-Frame-Options/CSP | Hardens against Clickjacking |
+| 🟢 **MEDIUM** | Deploy manifest.json (PWA) | Enables Home Screen Install |
+| 🟢 **LOW** | OpenGraph (SEO) Metadata | Professional LinkedIn Sharing |
 
 1.  **Security Patching (Immediate):** Implement the missing `X-Content-Type-Options` and `X-Frame-Options` headers to harden the platform against common web attacks.
 2.  **Performance Polish:** Optimize the `ai.anytimeteacher.com` login flow to ensure the fastest possible "Time-to-Value" for new users.
